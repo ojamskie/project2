@@ -6,3 +6,4 @@ Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on Yo
 
 [Live demo](https://fireship-demos.web.app/)"# project2" 
 "# Project-2" 
+"# proj2" 
